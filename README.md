@@ -1,16 +1,15 @@
 # 🧠 UIDAI-DATATHON
 
-> A data science project for the **UIDAI Data Hackathon 2026** — analysing Aadhaar datasets to extract meaningful insights, trends, and predictive indicators to help improve digital services. :contentReference[oaicite:0]{index=0}
+> A data science project for the **UIDAI Data Hackathon 2026** — analysing Aadhaar datasets to extract meaningful insights, trends, and predictive indicators to help improve digital services. 
 
 ---
 
 ## 📌 About the Hackathon
 
-The **UIDAI Data Hackathon 2026** is a national-level online competition organized by the **Unique Identification Authority of India (UIDAI)** in collaboration with the National Informatics Centre (NIC), Ministry of Electronics and Information Technology (MeitY). Participants work with anonymised Aadhaar enrolment and update datasets to discover patterns, trends, and insights that support system improvements and decision-making. :contentReference[oaicite:1]{index=1}
+The **UIDAI Data Hackathon 2026** is a national-level online competition organized by the **Unique Identification Authority of India (UIDAI)** in collaboration with the National Informatics Centre (NIC), Ministry of Electronics and Information Technology (MeitY). Participants work with anonymised Aadhaar enrolment and update datasets to discover patterns, trends, and insights that support system improvements and decision-making. 
 
 **Key points:**
-- 📅 Timeline: January 5–20, 2026 :contentReference[oaicite:2]{index=2}  
-- 🏆 Cash prizes (up to ₹2,00,000) and certificates to winners :contentReference[oaicite:3]{index=3}  
+
 - 📊 Objective: Data analysis, visualization, model building  
 - 👩‍💻 Team or individual participation
 
